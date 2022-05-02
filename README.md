@@ -19,5 +19,7 @@ iptables -I INPUT -m geoip --src-cc RU,CN,IN,US,BR,TW,KR,NG,UA,TR,IR,IL,RS,PL,VN
 
 ## Other resources
 Country codes : http://www.ip2country.net/ip2country/country_code.html
+
 GoogleBot Public IPs : https://developers.google.com/search/apis/ipranges/googlebot.json 
+
 DuckDuckGo Public IPs : https://help.duckduckgo.com/duckduckgo-help-pages/results/duckduckbot/  
